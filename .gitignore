@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#IDE
+*.bbprojectd
+
+Project 1.bbprojectd/Scratchpad.txt
+
+.DS_Store
