@@ -1,8 +1,21 @@
-print "Hello, Brady.  I have no idea what I'm doing! --Bradley"
+print "Welcome to the Entropy Caclulator"
 
-a = 0
-while a < 10:
-	a = a + 1
-	print a
+file_to_work_with = raw_input("Please enter a filename to analyze: ")
 
-print "but I can count to %i!" % (a)
+file = open(file_to_work_with,"r")
+
+text = file.read()
+
+print text
+
+a = {};
+
+for c in text:
+	if c<>"\n":
+		if c in a:
+			a[c] = a[c] + 1
+		else:
+			a[c] = 1
+
+for x, y in a.iteritems():
+	print x, y
