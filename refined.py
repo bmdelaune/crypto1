@@ -1,7 +1,9 @@
+from __future__ import division # this is needed for high percision floating point division
 import sys
-import re
-from math import log
+import re # regulat expressions
+import math
 from collections import Counter
+from collections import defaultdict
 
 f = open(sys.argv[1],"r")
 text = f.read()
@@ -9,19 +11,25 @@ f.close()
 
 text = re.sub(r'([^\s\w]|_)+', '', text) #keeps only alpha/nums/space
 refined = [x.lower() for x in text.split()] # makes list of lowercase words
-total_words = len(refined)
+chars = []
+for entry in refined:
+	chars.extend(str(entry))
+#refined = chars # optional line, when included evaluates on a char basis
 count = Counter(refined) #counts the num of occurances for each word
+prob = defaultdict(float)
+total = len(refined) # total number of anything to occur
+
+for key in count.most_common(len(count)):
+	prob[key[0]] = key[1] / total # probabily of key[0] occuring
+
+entropy = float(0)
+for term in prob:
+	entropy += prob[term] * math.log(prob[term],2)
+entropy *= (-1)
 
 output = open(sys.argv[1] + ".entropy","w")
-sum = 0.0
 for key in count.most_common(len(count)): #saves them to file, sorted from most to least frequent
-	output.write(key[0] + ' : ' + str(key[1]) + '\n')
-	pt = float(key[1]) #converts key to float
-	pb = float(total_words) #converts length to float
-	sum = sum + (pt/pb)*(log(pt/pb)) #calculates p(x) * log(p(x)) and adds to sum
+	output.write(key[0] + ',' + str(prob[key[0]]) + '\n')
+output.write('\nTotal Entropy: ' + str(entropy))
 output.close()
-
-sum = sum*-1
-
-print "The entropy of "+sys.argv[1]+" is "+str(sum)+"."
 	
