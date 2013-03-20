@@ -40,3 +40,5 @@ nosetests.xml
 Project 1.bbprojectd/Scratchpad.txt
 
 .DS_Store
+
+*.bradley

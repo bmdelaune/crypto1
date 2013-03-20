@@ -25,14 +25,17 @@ for i, c in enumerate(text):
 			a[c] = a[c] + 1
 		else:
 			a[c] = 1
-output = open(sys.argv[1]+".entropy","w")
+output = open(sys.argv[1]+".entropy.bradley","w")
 sum = 0.0
 for x, y in sorted(a.iteritems()):
 	print x, y
-	output.write(str(x)+": "+str(y)+"\n")
 
 	pt = float(y) #converts key to float
 	pb = float(total_letters) #converts length to float
+	output.write(str(x)+": "+str(pt/pb)+"\n")
+
+	#pt = float(y) #converts key to float
+	#pb = float(total_letters) #converts length to float
 	sum = sum + (pt/pb)*(log(pt/pb)) #calculates p(x) * log(p(x)) and adds to sum
 output.close()
 

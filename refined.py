@@ -20,7 +20,7 @@ prob = defaultdict(float)
 total = len(refined) # total number of anything to occur
 
 for key in count.most_common(len(count)):
-	prob[key[0]] = key[1] / total # probabily of key[0] occuring
+	prob[key[0]] = float(key[1]) / float(total) # probabily of key[0] occuring
 
 entropy = float(0)
 for term in prob:
