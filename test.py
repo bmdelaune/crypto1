@@ -32,7 +32,7 @@ for x, y in sorted(a.iteritems()):
 
 	pt = float(y) #converts key to float
 	pb = float(total_letters) #converts length to float
-	output.write(str(x)+": "+str(pt/pb)+"\n")
+	output.write(str(x)+": "+str(pt/pb)+"\t"+str(pt)+"\n")
 
 	#pt = float(y) #converts key to float
 	#pb = float(total_letters) #converts length to float
