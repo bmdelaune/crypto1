@@ -28,12 +28,14 @@ for term in prob:
 entropy *= (-1)
 
 output = open(sys.argv[1] + ".entropy","w")
+totals = open("titles.txt","a")
 all_books = open("All Authors.txt","a")
 for key in count.most_common(len(count)): #saves them to file, sorted from most to least frequent
 	output.write(key[0] + ',' + str(prob[key[0]]) + '\n')
 print '\t\t' + str(entropy)
 all_books.write(str(entropy)+"\t\t"+sys.argv[1]+'\n')
 all_books.close()
+totals.write("\n"+str(total))
 output.write('\nTotal Entropy: ' + str(entropy))
 output.write('\nTotal: ' + str(total))
 output.close()
