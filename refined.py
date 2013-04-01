@@ -5,16 +5,20 @@ import math
 from collections import Counter
 from collections import defaultdict
 
+def split_len(seq, length):
+    return [seq[i:i+length] for i in range(0, len(seq), length)]
+
 f = open(sys.argv[1],"r")
 text = f.read()
 f.close()
 
 text = re.sub(r'([^\s\w]|_)+', '', text) #keeps only alpha/nums/space
 refined = [x.lower() for x in text.split()] # makes list of lowercase words
-chars = []
-for entry in refined:
-	chars.extend(str(entry))
-refined = chars # optional line, when included evaluates on a char basis
+total = ''
+for word in refined: #makes a single string that contains all words pushed together
+	total += word
+refined = split_len(total,2) #splits string into substrings of length n
+
 count = Counter(refined) #counts the num of occurances for each word
 prob = defaultdict(float)
 total = len(refined) # total number of anything to occur
