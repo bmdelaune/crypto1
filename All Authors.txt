@@ -1,434 +1,99 @@
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
 4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens/Charles Dickens - Oliver Twist.txt
+7.79353680652		Books/Jane Austen - Emma.txt
+10.813895114		Books/Jane Austen - Emma.txt
 4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
+7.7532759741		Books/Charles Dickens - A Christmas Carol.txt
+10.7362637054		Books/Charles Dickens - A Christmas Carol.txt
 4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
+7.74802708491		Books/Charles Dickens - A Tale of Two Cities.txt
+10.8403327046		Books/Charles Dickens - A Tale of Two Cities.txt
 4.18798639293		Books/Charles Dickens - Bleak House.txt
+7.81195919569		Books/Charles Dickens - Bleak House.txt
+10.9448845494		Books/Charles Dickens - Bleak House.txt
 4.18455826446		Books/Charles Dickens - David Copperfield.txt
+7.80456036496		Books/Charles Dickens - David Copperfield.txt
+10.9234300863		Books/Charles Dickens - David Copperfield.txt
 4.1864324577		Books/Charles Dickens - Great Expectations.txt
+7.79087333121		Books/Charles Dickens - Great Expectations.txt
+10.8813269683		Books/Charles Dickens - Great Expectations.txt
 4.18055469473		Books/Charles Dickens - Oliver Twist.txt
+7.7801036817		Books/Charles Dickens - Oliver Twist.txt
+10.8665383068		Books/Charles Dickens - Oliver Twist.txt
 4.20238782024		Books/H.G. Wells - A Short History of the World.txt
+7.77927720322		Books/H.G. Wells - A Short History of the World.txt
+10.8546565193		Books/H.G. Wells - A Short History of the World.txt
 4.18500115137		Books/H.G. Wells - The Invisible Man.txt
+7.76802002931		Books/H.G. Wells - The Invisible Man.txt
+10.8067002073		Books/H.G. Wells - The Invisible Man.txt
 4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
+7.73015650294		Books/H.G. Wells - The Island of Doctor Moreau.txt
+10.7535891425		Books/H.G. Wells - The Island of Doctor Moreau.txt
 4.16636420109		Books/H.G. Wells - The Time Machine.txt
+7.72079120556		Books/H.G. Wells - The Time Machine.txt
+10.7253861556		Books/H.G. Wells - The Time Machine.txt
 4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
+7.70838010216		Books/H.G. Wells - The War of the Worlds.txt
+10.7570158881		Books/H.G. Wells - The War of the Worlds.txt
 4.16371523217		Books/H.G. Wells - The World Set Free.txt
+7.73663216751		Books/H.G. Wells - The World Set Free.txt
+10.8256824178		Books/H.G. Wells - The World Set Free.txt
+4.21993857127		Books/James Joyce - Ulysses.txt
+7.90939525452		Books/James Joyce - Ulysses.txt
+11.1961611355		Books/James Joyce - Ulysses.txt
 4.18674113951		Books/Jane Austen - Emma.txt
+7.79353680652		Books/Jane Austen - Emma.txt
+10.813895114		Books/Jane Austen - Emma.txt
 4.17498485929		Books/Jane Austen - Mansfield Park.txt
+7.76189100376		Books/Jane Austen - Mansfield Park.txt
+10.779503989		Books/Jane Austen - Mansfield Park.txt
 4.16587711003		Books/Jane Austen - Northanger Abbey.txt
+7.73666413858		Books/Jane Austen - Northanger Abbey.txt
+10.7562366278		Books/Jane Austen - Northanger Abbey.txt
 4.16943928542		Books/Jane Austen - Persuasion.txt
+7.75515109988		Books/Jane Austen - Persuasion.txt
+10.7425028553		Books/Jane Austen - Persuasion.txt
 4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
+7.77137377218		Books/Jane Austen - Pride and Prejudice.txt
+10.782495998		Books/Jane Austen - Pride and Prejudice.txt
 4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
+7.75543806472		Books/Jane Austen - Sense and Sensibility.txt
+10.7638618926		Books/Jane Austen - Sense and Sensibility.txt
 4.19665444011		Books/Mark Twain - Following the Equator.txt
+7.79760850305		Books/Mark Twain - Following the Equator.txt
+10.9570314522		Books/Mark Twain - Following the Equator.txt
 4.184350882		Books/Mark Twain - Life on the Mississippi.txt
+7.78183180123		Books/Mark Twain - Life on the Mississippi.txt
+10.9264680509		Books/Mark Twain - Life on the Mississippi.txt
 4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
+7.73980582793		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
+10.7482730179		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
 4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
+7.7964352475		Books/Mark Twain - The Adventures of Tom Sawyer.txt
+10.8647164864		Books/Mark Twain - The Adventures of Tom Sawyer.txt
 4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
+7.7475808691		Books/Mark Twain - The Prince and the Pauper.txt
+10.8213749016		Books/Mark Twain - The Prince and the Pauper.txt
 4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
+7.69729379085		Books/William Shakespeare - A Midsummer Night's Dream.txt
+10.6810956027		Books/William Shakespeare - A Midsummer Night's Dream.txt
 4.19113736178		Books/William Shakespeare - Hamlet.txt
+7.83722123272		Books/William Shakespeare - Hamlet.txt
+10.8876281145		Books/William Shakespeare - Hamlet.txt
 4.18105673493		Books/William Shakespeare - Julius Caesar.txt
+7.78734168541		Books/William Shakespeare - Julius Caesar.txt
+10.7032270561		Books/William Shakespeare - Julius Caesar.txt
 4.18682425287		Books/William Shakespeare - King Lear.txt
+7.82072971027		Books/William Shakespeare - King Lear.txt
+10.8691029173		Books/William Shakespeare - King Lear.txt
 4.15878597226		Books/William Shakespeare - Macbeth.txt
+7.76722612206		Books/William Shakespeare - Macbeth.txt
+10.7451441692		Books/William Shakespeare - Macbeth.txt
 4.12175528261		Books/William Shakespeare - Othello.txt
+7.73403126145		Books/William Shakespeare - Othello.txt
+10.7562120063		Books/William Shakespeare - Othello.txt
 4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
+7.83241296552		Books/William Shakespeare - Romeo and Juliet.txt
+10.881556408		Books/William Shakespeare - Romeo and Juliet.txt
 4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
-4.17140935874		Books/Charles Dickens - A Christmas Carol.txt
-4.15992282548		Books/Charles Dickens - A Tale of Two Cities.txt
-4.18798639293		Books/Charles Dickens - Bleak House.txt
-4.18455826446		Books/Charles Dickens - David Copperfield.txt
-4.1864324577		Books/Charles Dickens - Great Expectations.txt
-4.18055469473		Books/Charles Dickens - Oliver Twist.txt
-4.20238782024		Books/H.G. Wells - A Short History of the World.txt
-4.18500115137		Books/H.G. Wells - The Invisible Man.txt
-4.16828102904		Books/H.G. Wells - The Island of Doctor Moreau.txt
-4.16636420109		Books/H.G. Wells - The Time Machine.txt
-4.15851084695		Books/H.G. Wells - The War of the Worlds.txt
-4.16371523217		Books/H.G. Wells - The World Set Free.txt
-4.18674113951		Books/Jane Austen - Emma.txt
-4.17498485929		Books/Jane Austen - Mansfield Park.txt
-4.16587711003		Books/Jane Austen - Northanger Abbey.txt
-4.16943928542		Books/Jane Austen - Persuasion.txt
-4.18405227807		Books/Jane Austen - Pride and Prejudice.txt
-4.16900868201		Books/Jane Austen - Sense and Sensibility.txt
-4.19665444011		Books/Mark Twain - Following the Equator.txt
-4.184350882		Books/Mark Twain - Life on the Mississippi.txt
-4.18006109476		Books/Mark Twain - The Adventures of Huckleberry Finn.txt
-4.19187610631		Books/Mark Twain - The Adventures of Tom Sawyer.txt
-4.17156551217		Books/Mark Twain - The Prince and the Pauper.txt
-4.1217738493		Books/William Shakespeare - A Midsummer Night's Dream.txt
-4.19113736178		Books/William Shakespeare - Hamlet.txt
-4.18105673493		Books/William Shakespeare - Julius Caesar.txt
-4.18682425287		Books/William Shakespeare - King Lear.txt
-4.15878597226		Books/William Shakespeare - Macbeth.txt
-4.12175528261		Books/William Shakespeare - Othello.txt
-4.18922277975		Books/William Shakespeare - Romeo and Juliet.txt
-4.35093032976		Books/William Shakespeare - The Tempest.txt
+8.04346945277		Books/William Shakespeare - The Tempest.txt
+11.083087444		Books/William Shakespeare - The Tempest.txt

@@ -1,0 +1,34 @@
+7.7532759741	Charles Dickens	A Christmas Carol
+7.74802708491	Charles Dickens	A Tale of Two Cities
+7.81195919569	Charles Dickens	Bleak House
+7.80456036496	Charles Dickens	David Copperfield
+7.79087333121	Charles Dickens	Great Expectations
+7.7801036817	Charles Dickens	Oliver Twist
+7.75461731583	Frank Baum	Wonderful Wizard of Oz
+7.77927720322	H.G. Wells	A Short History of the World
+7.76802002931	H.G. Wells	The Invisible Man
+7.73015650294	H.G. Wells	The Island of Doctor Moreau
+7.72079120556	H.G. Wells	The Time Machine
+7.70838010216	H.G. Wells	The War of the Worlds
+7.73663216751	H.G. Wells	The World Set Free
+7.90939525452	James Joyce	Ulysses
+7.79353680652	Jane Austen	Emma
+7.76189100376	Jane Austen	Mansfield Park
+7.73666413858	Jane Austen	Northanger Abbey
+7.75515109988	Jane Austen	Persuasion
+7.77137377218	Jane Austen	Pride and Prejudice
+7.75543806472	Jane Austen	Sense and Sensibility
+7.79760850305	Mark Twain	Following the Equator
+7.78183180123	Mark Twain	Life on the Mississippi
+7.73980582793	Mark Twain	The Adventures of Huckleberry Finn
+7.7964352475	Mark Twain	The Adventures of Tom Sawyer
+7.7475808691	Mark Twain	The Prince and the Pauper
+7.59586960509	Oliver Goldsmith	Goody Two Shoes
+7.69729379085	William Shakespeare	A Midsummer Night's Dream
+7.83722123272	William Shakespeare	Hamlet
+7.78734168541	William Shakespeare	Julius Caesar
+7.82072971027	William Shakespeare	King Lear
+7.76722612206	William Shakespeare	Macbeth
+7.73403126145	William Shakespeare	Othello
+7.83241296552	William Shakespeare	Romeo and Juliet
+8.04346945277	William Shakespeare	The Tempest
